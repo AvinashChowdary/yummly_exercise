@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodingExercise</string>
+    <string name="search_recipes">Search for recipes</string>
+    <string name="enter_search_term">Please enter search term to search for recipes</string>
+    <string name="error">An error has occured during the search, please try again</string>
+    <string name="no_items_found">No recipes found for search term please try with different key word</string>
+</resources>
